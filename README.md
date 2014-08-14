@@ -1,4 +1,4 @@
-Card-Ceck
+Card-Deck
 =========
 
 After having spent some time thinking about how I would like to tackle this game "in some way that you care about", I was thinking, what could I do with the time I have to change this simple poker game into something I really would enjoy.
